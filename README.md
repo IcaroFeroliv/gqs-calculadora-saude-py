@@ -33,13 +33,25 @@ Para rodar este projeto, você precisará ter o [Python](https://www.python.org/
 3. Navegue até a pasta onde o arquivo está salvo usando o comando `cd`. Exemplo:
    ```bash
    cd caminho/para/a/pasta
+
+```
+
 4. Execute o script com o seguinte comando:
-  ```bash
-    python calculadora_saude.py
+```bash
+python calculadora_saude.py
 
-Autor:
-Kaio Moreira - 32510906
-Erick Mello - 326211590
-Icaro Ferreira - 325111358
+```
 
-Projeto desenvolvido como atividade acadêmica da disciplina de Garantia da Qualidade de Software, sob orientação do professor Daniel Paiva.
+
+
+*(Nota: No Linux ou Mac, dependendo da sua instalação, pode ser necessário usar `python3 calculadora_saude.py`).*
+
+---
+
+## Autores
+
+* **Kaio Moreira** - 32510906
+* **Erick Mello** - 326211590
+* **Icaro Ferreira** - 325111358
+
+*Projeto desenvolvido como atividade acadêmica da disciplina de Garantia da Qualidade de Software, sob orientação do professor Daniel Paiva.*
