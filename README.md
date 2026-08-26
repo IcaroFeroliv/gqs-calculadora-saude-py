@@ -34,8 +34,6 @@ Para rodar este projeto, você precisará ter o [Python](https://www.python.org/
    ```bash
    cd caminho/para/a/pasta
 
-```
-
 4. Execute o script com o seguinte comando:
 ```bash
 python calculadora_saude.py
