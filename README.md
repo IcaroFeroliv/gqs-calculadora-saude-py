@@ -36,3 +36,10 @@ Para rodar este projeto, você precisará ter o [Python](https://www.python.org/
 4. Execute o script com o seguinte comando:
   ```bash
     python calculadora_saude.py
+
+Autor:
+Kaio Moreira - 32510906
+Erick Mello - 326211590
+Icaro Ferreira - 325111358
+
+Projeto desenvolvido como atividade acadêmica da disciplina de Garantia da Qualidade de Software, sob orientação do professor Daniel Paiva.
